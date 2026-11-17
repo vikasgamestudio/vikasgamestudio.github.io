@@ -9,7 +9,7 @@ Live site: https://vikasgamestudio.github.io/
 | ArrowBaby | [privacy](arrowbaby/privacy.html) | [terms](arrowbaby/terms.html) |
 | Accello | [privacy](accello/privacy.html) | [terms](accello/terms.html) |
 | AnywayOut | [privacy](anywayout/privacy.html) | [terms](anywayout/terms.html) |
-| RingShatter | [privacy](ringshatter/privacy.html) | [terms](ringshatter/terms.html) |
+| RingFury | [privacy](ringfury/privacy.html) | [terms](ringfury/terms.html) |
 
 The games collect no personal information. Ads are served by Google AdMob; see each privacy policy for details.
 
