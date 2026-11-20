@@ -10,6 +10,7 @@ Live site: https://vikasgamestudio.github.io/
 | Accello | [privacy](accello/privacy.html) | [terms](accello/terms.html) |
 | AnywayOut | [privacy](anywayout/privacy.html) | [terms](anywayout/terms.html) |
 | RingFury | [privacy](ringfury/privacy.html) | [terms](ringfury/terms.html) |
+| UnchainMee | [privacy](unchainmee/privacy.html) | [terms](unchainmee/terms.html) |
 
 The games collect no personal information. Ads are served by Google AdMob; see each privacy policy for details.
 
